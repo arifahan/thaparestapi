@@ -1,0 +1,60 @@
+[
+    {
+        "name" : "iphone10",
+        "price" : 154,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone",
+        "price" : 100,
+        "featured" : false,
+        "company" : "apple"
+    },
+
+    {
+        "name" : "iphonewatch",
+        "price" : 200,
+        "featured" : true,
+        "company" : "apple"
+    },
+
+    {
+        "name" : "laptop",
+        "price" : 222,
+        "featured" : false,
+        "company" : "dell"
+    },
+
+    {
+        "name" : "watch",
+        "price" : 22,
+        "featured" : true,
+        "company" : "mi"
+    },
+    {
+        "name" : "charger",
+        "price" : 10,
+        "featured" : false,
+        "company" : "mi"
+    },
+    {
+        "name" : "powerbank",
+        "price" : 110,
+        "featured" : false,
+        "company" : "samsung"
+    },
+    {
+        "name" : "phone c35",
+        "price" : 110,
+        "featured" : false,
+        "company" : "realme"
+    },
+    {
+        "name" : "phone",
+        "price" : 89,
+        "featured" : true,
+        "company" : "samsung"
+    }
+
+]
